@@ -4,9 +4,9 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log(6+6), console.log(6+6);
+console.log("Java"+"Script"), console.log(6+6);
 console.log("While I go.");
-console.log('"While I go."');
+console.log('Then I said "While I go."');
 console.log(6+6);
 console.log(6*6);
 
